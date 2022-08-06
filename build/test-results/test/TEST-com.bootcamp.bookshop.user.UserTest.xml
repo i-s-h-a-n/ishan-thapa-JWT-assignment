@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bootcamp.bookshop.user.UserTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-08-06T11:33:48" hostname="NT-IT-LT-2194" time="0.328">
+  <properties/>
+  <testcase name="shouldBePasswordMandatory()" classname="com.bootcamp.bookshop.user.UserTest" time="0.042"/>
+  <testcase name="shouldBeEmailMandatory()" classname="com.bootcamp.bookshop.user.UserTest" time="0.111"/>
+  <testcase name="shouldCreateUserEncryptPassword()" classname="com.bootcamp.bookshop.user.UserTest" time="0.174"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
